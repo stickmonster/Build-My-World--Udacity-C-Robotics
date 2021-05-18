@@ -1,4 +1,4 @@
-#include gazebo
+#include <gazebo/gazebo.hh>
 
 namespace gazebo
 {
